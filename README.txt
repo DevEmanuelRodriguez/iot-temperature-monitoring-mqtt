@@ -60,15 +60,9 @@ node-red
 
 Access dashboard at:
 
-```id="g9k2l1"
+``dashboard``
 http://localhost:1880/ui
 ```
-
----
-
-## 📸 Application Preview
-
-*(Add dashboard screenshot here)*
 
 ---
 
